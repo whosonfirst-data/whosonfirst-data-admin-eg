@@ -45,7 +45,7 @@
         "gn:id":361245
     },
     "wof:country":"EG",
-    "wof:geomhash":"84fa22bba1e5eed1dff39124129e66f2",
+    "wof:geomhash":"d8dcb44bc411cf5e329851dca8945c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     31.05764000000001,
     29.10668
 ],
-  "geometry": {"coordinates":[31.05764000000001,29.10668],"type":"Point"}
+  "geometry": {"coordinates":[31.05764,29.10668],"type":"Point"}
 }

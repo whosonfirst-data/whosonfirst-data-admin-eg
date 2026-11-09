@@ -60,7 +60,7 @@
         "wk:page":"Gezira_Island"
     },
     "wof:country":"EG",
-    "wof:geomhash":"858c78babfe78fea83fec2fe8ac028e2",
+    "wof:geomhash":"302ad64c9010a22cc4f3a4fc235490cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,5 +86,5 @@
     31.22211,
     30.05492000000001
 ],
-  "geometry": {"coordinates":[31.22211,30.05492000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.22211,30.05492],"type":"Point"}
 }

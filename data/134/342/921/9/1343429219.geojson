@@ -81,7 +81,7 @@
         "wk:page":"Beit_Khallaf"
     },
     "wof:country":"EG",
-    "wof:geomhash":"990c83dd13356691edd1fe2d39926921",
+    "wof:geomhash":"5e140cd04b65ba162953d8f08f65632c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,5 +107,5 @@
     31.78642,
     26.30717000000001
 ],
-  "geometry": {"coordinates":[31.78642,26.30717000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.78642,26.30717],"type":"Point"}
 }

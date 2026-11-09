@@ -61,7 +61,7 @@
         "wk:page":"Biyala"
     },
     "wof:country":"EG",
-    "wof:geomhash":"9c1934fa88bbade8bbeaa3cad160bc3d",
+    "wof:geomhash":"d08ac95d691dd80f394f2671d60f6b63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     31.2218,
     31.17419000000001
 ],
-  "geometry": {"coordinates":[31.2218,31.17419000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.2218,31.17419],"type":"Point"}
 }

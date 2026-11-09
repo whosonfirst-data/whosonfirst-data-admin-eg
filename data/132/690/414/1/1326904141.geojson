@@ -61,7 +61,7 @@
         "wk:page":"Kassassin"
     },
     "wof:country":"EG",
-    "wof:geomhash":"28ec48f67c04d54e784db9ad392842f6",
+    "wof:geomhash":"a327eb8788c596e84f85636e4fd504ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     31.93386,
     30.56412000000001
 ],
-  "geometry": {"coordinates":[31.93386,30.56412000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.93386,30.56412],"type":"Point"}
 }

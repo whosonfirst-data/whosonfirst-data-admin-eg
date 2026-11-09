@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499131047,
-    "wof:geomhash":"20024191ebd1eb2fe5955a233bcc977d",
+    "wof:geomhash":"df7ea4e3bb382f1bd9de0ff50f9037f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,5 +150,5 @@
     32.29000809604526,
     31.25998984682116
 ],
-  "geometry": {"coordinates":[32.29000809604526,31.25998984682116],"type":"Point"}
+  "geometry": {"coordinates":[32.290008,31.25999],"type":"Point"}
 }
