@@ -68,7 +68,7 @@
         "wk:page":"Mit_Abu_El_Kom"
     },
     "wof:country":"EG",
-    "wof:geomhash":"cb1c6f510f30955627d56d762c3e40fb",
+    "wof:geomhash":"988d730f88f1127a5de2746e7ef9bd85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,5 +94,5 @@
     30.91312000000001,
     30.63627
 ],
-  "geometry": {"coordinates":[30.91312000000001,30.63627],"type":"Point"}
+  "geometry": {"coordinates":[30.91312,30.63627],"type":"Point"}
 }

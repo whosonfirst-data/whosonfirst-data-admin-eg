@@ -62,7 +62,7 @@
         "wk:page":"El_Kurdi"
     },
     "wof:country":"EG",
-    "wof:geomhash":"0a23ede4204b3715df16c630221db665",
+    "wof:geomhash":"a18c7b61fa302c3ab2abab8bda341141",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     30.81862000000001,
     31.07688
 ],
-  "geometry": {"coordinates":[30.81862000000001,31.07688],"type":"Point"}
+  "geometry": {"coordinates":[30.81862,31.07688],"type":"Point"}
 }

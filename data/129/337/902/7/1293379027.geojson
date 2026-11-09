@@ -47,7 +47,7 @@
         "wk:page":"Qasr_Hur"
     },
     "wof:country":"EG",
-    "wof:geomhash":"0fd1fc3bb75756463d35fd3a999d8d5c",
+    "wof:geomhash":"37064946e3d38ea91937c926ca8a3efb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     30.73333,
     27.86667000000001
 ],
-  "geometry": {"coordinates":[30.73333,27.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.73333,27.86667],"type":"Point"}
 }

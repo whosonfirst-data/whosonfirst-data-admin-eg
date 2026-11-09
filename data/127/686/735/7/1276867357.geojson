@@ -61,7 +61,7 @@
         "wk:page":"6th_of_October_City"
     },
     "wof:country":"EG",
-    "wof:geomhash":"d77eb6b5163bca686a2c51694f9fb6d6",
+    "wof:geomhash":"ae1360e6f36410dd91d1ba6b2296276f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     30.91687,
     29.94644000000001
 ],
-  "geometry": {"coordinates":[30.91687,29.94644000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.91687,29.94644],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"El_Maragha"
     },
     "wof:country":"EG",
-    "wof:geomhash":"68bf56cf3b1f06c7a8627e3622c105e0",
+    "wof:geomhash":"8ae1bb5bfcd5a0d0433c6a721eaba7a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     31.60509,
     26.69934000000001
 ],
-  "geometry": {"coordinates":[31.60509,26.69934000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.60509,26.69934],"type":"Point"}
 }
