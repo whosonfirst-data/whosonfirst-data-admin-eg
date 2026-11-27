@@ -1,0 +1,75 @@
+{
+  "id": 9895092877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31,30.02,31,30.02",
+    "geom:latitude":30.02,
+    "geom:longitude":31.0,
+    "gn:population":95854,
+    "iso:country":"EG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640364: name \"Ash-Shaykh Z\u0101yid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640364"
+        },
+        {
+            "citation":"GeoNames populated place 12640364: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640364"
+        },
+        {
+            "citation":"GeoNames populated place 12640364: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640364"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092022885 (), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581,
+        85671047,
+        102191573,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640364
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75d12c22153f1238e782a2f04f44c291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":9895092877,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":9895092877,
+    "wof:lastmodified":1795747290,
+    "wof:name":"Ash-Shaykh Z\u0101yid",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0,
+    30.02,
+    31.0,
+    30.02
+],
+  "geometry": {"coordinates":[31,30.02],"type":"Point"}
+}
